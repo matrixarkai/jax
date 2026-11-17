@@ -4,6 +4,7 @@ build-backend = "scikit_build_core.build"
 
 [project]
 name = "jax_ffi_example"
+license = { file = "LICENSE" }
 version = "0.0.1"
 requires-python = ">=3.12"
 dependencies = ["jax"]
